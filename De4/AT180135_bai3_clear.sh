@@ -1,0 +1,1 @@
+userdel -r U1
